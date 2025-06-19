@@ -1,4 +1,4 @@
-package Trabalho;
+package src;
 
 public class Evento
 {
