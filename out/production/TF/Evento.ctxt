@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Trabalho.Evento
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ evento\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=nome\ tipo\ quantidadeDeSalas\ codigo\ quantidadeDeInscritos
+comment1.target=Trabalho.Evento(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=a
+comment3.target=boolean\ addSala(Trabalho.Sala)
+comment4.params=codigoDaSala
+comment4.target=Trabalho.Sala\ buscaSala(int)
+comment5.params=a
+comment5.target=boolean\ addInscrito(Trabalho.Inscritos)
+comment6.params=nome
+comment6.target=Trabalho.Inscritos\ buscaInscrito(java.lang.String)
+comment7.params=
+comment7.target=int\ getQuantidadeInscritos()
+comment8.params=quantidadeDeInscritosTotais
+comment8.target=void\ setQuantidadeInscritos(int)
+numComments=9
